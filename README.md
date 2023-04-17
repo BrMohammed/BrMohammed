@@ -3,16 +3,10 @@
 </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently study at 1337
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🌱 I’m currently learning networking in unity
   
 
 ![](https://badge.mediaplus.ma/kettlebells/brmohamm)  
