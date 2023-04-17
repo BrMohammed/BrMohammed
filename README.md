@@ -1,9 +1,10 @@
 <div align="center">
-<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" height="" width="900" />
+<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" height="" width="930" />
 </div>  
   
+### <div align="center">I'm Mohammed, Game Deve and designer </div>  
 
-- 🔭 I’m currently study at 1337
+- 🔭 I’m currently study at 1337 
   
 
 - 🌱 I’m currently learning networking in unity
