@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" height="" width="1000" />
+<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" height="" width="900" />
 </div>  
   
 
@@ -48,7 +48,7 @@
 <a href="https://instagram.com/brmohammed_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/%20mohammed-brighli-bb1117241/" target="_blank">
+<a href="https://www.linkedin.com/in/mohammed-brighli-bb1117241/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -61,21 +61,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Brmohammed&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
