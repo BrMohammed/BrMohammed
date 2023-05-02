@@ -11,7 +11,7 @@
   
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh605xra008808lh02zcysm4/stats?cursusId=21&coalitionId=80" alt="brmohamm's 42 stats" /></a>
-von's 42 webserv Score - [![brmohamm's 42 webserv Score](https://badge42.vercel.app/api/v2/clh605xra008808lh02zcysm4/project/2996927)](https://github.com/JaeSeoKim/badge42)
+
 
 <br/>  
 
