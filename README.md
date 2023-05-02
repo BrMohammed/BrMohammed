@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning networking in unity
   
 
-![](https://badge.mediaplus.ma/kettlebells/brmohamm)  
+![]([https://badge.mediaplus.ma/kettlebells/brmohamm](https://badge42.vercel.app/api/v2/clh605xra008808lh02zcysm4/stats?cursusId=21&coalitionId=undefined))  
   
 
 <br/>  
