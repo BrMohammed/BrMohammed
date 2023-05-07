@@ -7,7 +7,7 @@
 - 🔭 I’m currently study at 1337 
   
 
-- 🌱 I’m currently learning networking in unity
+- 🌱 I’m currently learning Backend Web Development
   
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh605xra008808lh02zcysm4/stats?cursusId=21&coalitionId=80" alt="brmohamm's 42 stats" /></a>
@@ -21,7 +21,8 @@
 
 
  
-<div align="center">  
+<div align="center"> 
+ <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
