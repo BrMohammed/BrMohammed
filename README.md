@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Backend Web Development
   
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh605xra008808lh02zcysm4/stats?cursusId=21&coalitionId=80" alt="brmohamm's 42 stats" /></a>
+![](https://badge.mediaplus.ma/kettlebells/brmohamm) 
 
 
 <br/>  
