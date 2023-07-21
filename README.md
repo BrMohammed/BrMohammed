@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" height="" width="930" />
 </div>  
- ### <div align="center">I'm Mohammed, Game Dev and Web Dev </div>
+<br/> 
+ <div align="center">I'm Mohammed, Game Dev and Web Dev </div>
 <br/>  
 
 ![](https://badge.mediaplus.ma/kettlebells/brmohamm) 
