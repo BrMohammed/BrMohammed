@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" height="" width="930" />
 </div>  
-  <br/>  
  ### <div align="center">I'm Mohammed, Game Dev and Web Dev </div>
 <br/>  
 
