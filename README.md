@@ -3,11 +3,6 @@
 </div>  
   
 ### <div align="center">I'm Mohammed, Game Deve and designer </div>  
-
-- 🔭 I’m currently study at 1337 
-  
-
-- 🌱 I’m currently learning Backend Web Development
   
 
 ![](https://badge.mediaplus.ma/kettlebells/brmohamm) 
